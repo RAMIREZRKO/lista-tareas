@@ -1,0 +1,38 @@
+[
+    {
+        "texto": "sacar el perro",
+        "completada": true,
+        "fecha_limite": "2026-09-11",
+        "hora_limite": "20:00",
+        "fijada": false,
+        "recordatorio": null,
+        "recordatorio_mostrado": false
+    },
+    {
+        "texto": "botar la basura",
+        "completada": true,
+        "fecha_limite": "2026-09-12",
+        "hora_limite": "20:00",
+        "fijada": false,
+        "recordatorio": null,
+        "recordatorio_mostrado": false
+    },
+    {
+        "texto": "preparar la receta",
+        "completada": false,
+        "fecha_limite": "2026-09-12",
+        "hora_limite": "20:00",
+        "fijada": false,
+        "recordatorio": null,
+        "recordatorio_mostrado": false
+    },
+    {
+        "texto": "comprar  el alimento",
+        "completada": false,
+        "fecha_limite": "2026-09-12",
+        "hora_limite": "20:00",
+        "fijada": false,
+        "recordatorio": 60,
+        "recordatorio_mostrado": false
+    }
+]
